@@ -1,4 +1,3 @@
-🗄️ Exemplo de README.md
 📝 Descrição
 Projeto para cadastro de produtos, Pedido, Itens de pedido
 🔧 Tecnologias utilizadas
